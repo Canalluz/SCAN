@@ -1,0 +1,7 @@
+{
+  "name": "VisionGlue - Industrial Glue Inspection",
+  "description": "An advanced computer vision tool for inspecting glue application on 40x40mm parts, providing real-time area and percentage analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
